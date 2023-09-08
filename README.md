@@ -1,4 +1,4 @@
-# Nutrition Assistant Application
+# Minimal Encryption
 ```text
 PROJECT NAME : Nssdle
 PROJECT ID : 20CS713-PP-1-C8
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## 👨‍💻PROJECT STRUCTURE:
-This is the base repository which contains the submodules for the project _Min-AES_. The submodules are as follows:
+This is the base repository which contains the submodules for the project _Minimal Encryption_. The submodules are as follows:
 
 | S.No | Submodule Name | Repository Link |
 | --- | --- | --- |
